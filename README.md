@@ -3,7 +3,7 @@
 Backend: Express, Sequelize, Body-Parser, Mysql2.
 Front-End: EJS , HTML , CSS , Bootstrap.
 
-Uma plataforma de perguntas e respostas ao estilo Yahoo respostas feita com Express.
+Uma plataforma de perguntas e respostas ao estilo Yahoo respostas feita com Node.js.
 
 -> Para iniciar o projeto:
 - Efetue o clone para sua machine. Ao acessar a raiz do projeto dentro de Node.JS-Guia-Perguntas pelo terminal execute os comandos:
