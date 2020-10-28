@@ -1,6 +1,6 @@
 # Node.Js---Question-and-answer-platform
 <img src="https://raw.githubusercontent.com/Nepturne/Node.Js-Guia-Perguntas/master/PerguntasYahoo.png" />
-Backend: Express, Sequelize, Body-Parser, Mysql2.
+Libs: Express, Sequelize, Body-Parser, Mysql2.
 Front-End: EJS , HTML , CSS , Bootstrap.
 
 Uma plataforma de perguntas e respostas ao estilo Yahoo respostas feita com Node.js.
